@@ -22,3 +22,5 @@ This is a simple Java application that demonstrates:
 1. Clone the repository
 2. Compile the files:
 
+## 📸 Problem Statement
+![Problem](Question.png)
